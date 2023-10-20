@@ -1,2 +1,1 @@
-# openMeForDewSy-2
-.
+None
